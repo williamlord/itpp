@@ -2,13 +2,17 @@ IT++
 ====
 
 systeminfo.exe
+----
 
-OS Name:                   Microsoft Windows 8
-OS Version:                6.2.9200 N/A Build 9200
-OS Manufacturer:           Microsoft Corporation
-OS Configuration:          Standalone Workstation
-OS Build Type:             Multiprocessor Free
-System Type:               x64-based PC
+OS Name:                   Microsoft Windows 8  
+OS Version:                6.2.9200 N/A Build 9200  
+OS Manufacturer:           Microsoft Corporation  
+OS Configuration:          Standalone Workstation  
+OS Build Type:             Multiprocessor Free  
+System Type:               x64-based PC  
+
+ACML
+----
 
 Compatible with the following AMD Core Math Library (ACML) versions.
 
